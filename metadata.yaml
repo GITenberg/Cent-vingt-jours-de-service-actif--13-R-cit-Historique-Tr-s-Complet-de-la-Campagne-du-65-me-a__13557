@@ -1,0 +1,29 @@
+_repo: Cent-vingt-jours-de-service-actif--13-R-cit-Historique-Tr-s-Complet-de-la-Campagne-du-65-me-a__13557
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Daoust, Charles R. (Charles Roger)
+    birthdate: 1865
+    deathdate: 1924
+    gutenberg_agent_id: '5129'
+    url: http://www.gutenberg.org/2009/agents/5129
+description: ''
+gutenberg_bookshelf: FR Guerres
+gutenberg_issued: '2004-09-30'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '13557'
+language: fr
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Canada. Canadian Army. Battalion Mount-Royal Rifles (65th.)'
+- !lcsh 'Riel Rebellion, 1885'
+- !lcc 'F1001'
+title: "Cent-vingt jours de service actif\r\nRécit Historique Très Complet de la Campagne\
+  \ du 65ème au Nord-Ouest"
+url: http://www.gutenberg.org/ebooks/13557
